@@ -1,2 +1,7 @@
 # coin-flip-simulation
-Web application built with Python to simulate random coin flips. Developed during a Bootcamp, on the Software Development Tools module, focusing on web app structure, deployment, and best practices using modern development workflows.
+
+A small **Streamlit** web app in **Python** that simulates random coin flips and visualizes how the running mean converges toward **0.5** as trials increase. Built during a Bootcamp sprint on **Software Development Tools (Web Applications)**, focusing on app structure, deployment, and basic best practices.
+
+## Live demo
+```text
+https://coin-flip-simulation-9qre.onrender.com
